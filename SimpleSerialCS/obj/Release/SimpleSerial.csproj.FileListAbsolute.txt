@@ -1,0 +1,11 @@
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\bin\Release\SimpleSerial.exe.manifest
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\bin\Release\SimpleSerial.application
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\bin\Release\SimpleSerial.exe
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\bin\Release\SimpleSerial.pdb
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\obj\Release\SimpleSerial.Form1.resources
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\obj\Release\SimpleSerial.Properties.Resources.resources
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\obj\Release\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\obj\Release\SimpleSerial.exe.manifest
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\obj\Release\SimpleSerial.application
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\obj\Release\SimpleSerial.exe
+C:\Users\Hyperrobotix\Downloads\SimpleSerialCS\obj\Release\SimpleSerial.pdb
